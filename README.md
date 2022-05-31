@@ -17,7 +17,7 @@
 </div>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="100"/>
+  <a target="_blank" href="http://prasanto19.github.io/portfolio"<img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="100"/></a>
 </div>
 <h2  id="header" align="center">
   <a target="_blank" href="http://prasanto19.github.io/portfolio" >My Portfolio Website</a>
